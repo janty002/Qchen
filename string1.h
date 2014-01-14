@@ -7,7 +7,7 @@ class String{
 	char* str;
 	int len;
 	static int num_strings;
-	static const int CINLIM = 80;
+	static const int CINLIM = 70;
 public:
 	String(const char* s);
 	String();
